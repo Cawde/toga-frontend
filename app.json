@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "Toga",
+    "slug": "Toga",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/toga.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "icon": "./assets/images/toga.png",
+      "infoPlist": {
+        "NSAllowsArbitraryLoads": true
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/toga.png",
+        "backgroundColor": "#ffffff",
+        "permissions": ["INTERNET"]
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/toga.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-secure-store",
+      "expo-font"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
