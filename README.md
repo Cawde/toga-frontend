@@ -35,8 +35,9 @@ In the output, you'll find options to open the app in a
 
 # TOGA - Event-Based Marketplace App
 
+## App Demo
 <div align="center">
-  <img src="assets/images/mock-apps.png" width="400" alt="TOGA App Screenshots Side by Side">
+  <img src="assets/images/toga-demo.gif" width="300" alt="TOGA App Demo">
 </div>
 
 ## Features
