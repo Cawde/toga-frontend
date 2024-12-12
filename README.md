@@ -36,23 +36,23 @@ In the output, you'll find options to open the app in a
 # TOGA - Event-Based Marketplace App
 
 <div align="center">
-  <img src="mock-apps.png" width="400" alt="TOGA App Screenshots Side by Side">
+  <img src="assets/images/mock-apps.png" width="400" alt="TOGA App Screenshots Side by Side">
 </div>
 
 ## Features
 
 ### Event-Based Shopping
-<img src="event-screen.png" width="300" alt="Events Screen">
+<img src="assets/images/event-screen.png" width="300" alt="Events Screen">
 
 ### Detailed Event View
-<img src="event-details.png" width="300" alt="Event Details">
+<img src="assets/images/event-details.png" width="300" alt="Event Details">
 
 ### Product Listings
-<img src="product-details.png" width="300" alt="Product Details">
+<img src="assets/images/product-details.png" width="300" alt="Product Details">
 
 ### User Profiles
-<img src="user-profile.png" width="300" alt="User Profile">
+<img src="assets/images/user-profile.png" width="300" alt="User Profile">
 
 ### Shopping Cart
-<img src="shopping-cart.png" width="300" alt="Shopping Cart">
+<img src="assets/images/shopping-cart.png" width="300" alt="Shopping Cart">
 
