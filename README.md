@@ -32,3 +32,7 @@ In the output, you'll find options to open the app in a
    ```
 
 4. Look for the console log 'Server is running on port 8080'
+
+5. Home Screen 
+![image](https://github.com/user-attachments/assets/c158fd84-08d4-43e9-b611-f7d8878c4887)
+
