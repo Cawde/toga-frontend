@@ -33,6 +33,26 @@ In the output, you'll find options to open the app in a
 
 4. Look for the console log 'Server is running on port 8080'
 
-5. Home Screen 
-![image](https://github.com/user-attachments/assets/c158fd84-08d4-43e9-b611-f7d8878c4887)
+# TOGA - Event-Based Marketplace App
+
+<div align="center">
+  <img src="mock-apps.png" width="400" alt="TOGA App Screenshots Side by Side">
+</div>
+
+## Features
+
+### Event-Based Shopping
+<img src="event-screen.png" width="300" alt="Events Screen">
+
+### Detailed Event View
+<img src="event-details.png" width="300" alt="Event Details">
+
+### Product Listings
+<img src="product-details.png" width="300" alt="Product Details">
+
+### User Profiles
+<img src="user-profile.png" width="300" alt="User Profile">
+
+### Shopping Cart
+<img src="shopping-cart.png" width="300" alt="Shopping Cart">
 
